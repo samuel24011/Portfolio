@@ -1,0 +1,11 @@
+nav{
+    background: rgba(0, 0, 0, 0.3);
+    width: max-content;
+    display: block;
+    padding: 0.7rem 1.7rem;
+    margin: 3rem auto;
+    z-index: 2;
+    position: static;
+    
+
+}
