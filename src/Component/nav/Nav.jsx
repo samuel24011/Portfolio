@@ -9,7 +9,7 @@ import './nav.css'
 const Nav = () => {
   return (
    <nav>
-    <a href="#"><AiOutlineHome/></a>
+    <a href="/"><AiOutlineHome/></a>
     <a href="#about"><AiOutlineUser/></a>
     <a href="#experience"><BiBook/></a>
     <a href="#serv"><RiServiceLine/></a>
